@@ -1,0 +1,14 @@
+#d2{
+    background-color: rgba(0, 0, 255, 0.581);
+    padding: 20px;
+    margin: 30px;
+    text-align: center;
+}
+img{
+    height: 200px;
+    width: 300px;
+    float: right;
+}
+#p2{
+    float: left;
+}
